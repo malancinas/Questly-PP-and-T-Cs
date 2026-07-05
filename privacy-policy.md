@@ -79,7 +79,7 @@ We may also disclose information if required by law, or to protect the rights, s
 Our service providers may process and store data in countries other than your own, including the United States. Where required, we rely on appropriate safeguards (such as standard contractual clauses) for these transfers.
 
 9. Your Rights and Choices
-Depending on where you live, you may have the right to access, correct, export, or delete your personal information, and to object to or restrict certain processing. You can exercise most of these rights directly in the app (Settings → Family Data), or by emailing privacy@questchores.app. We will respond within 30 days.
+Depending on where you live, you may have the right to access, correct, export, or delete your personal information, and to object to or restrict certain processing. You can exercise most of these rights directly in the app (Settings → Family Data), or by emailing nmtrade2018@gmail.com. We will respond within 30 days.
 
 9.1 California Residents (CCPA/CPRA)
 We do not sell or "share" (as those terms are defined under California law) personal information, and we do not use it for cross-context behavioral advertising.
@@ -94,6 +94,6 @@ We use encryption in transit (TLS) and at rest, on-device encryption for the loc
 We may update this policy from time to time. If we make a material change, we'll update the "Last updated" date above and, where appropriate, notify you in the app.
 
 12. Contact Us
-Questions about this policy, or requests to access or delete your data, can be sent to privacy@questchores.app.
+Questions about this policy, or requests to access or delete your data, can be sent to nmtrade2018@gmail.com.
 
 Questly · Family-first, privacy-first.
